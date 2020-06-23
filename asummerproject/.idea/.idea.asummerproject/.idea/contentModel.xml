@@ -9,6 +9,7 @@
         <e p="Scripts" t="Include">
           <e p="Collectible.cs" t="Include" />
           <e p="main.cs" t="Include" />
+          <e p="Pause.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
           <e p="StartPosition.cs" t="Include" />
         </e>
